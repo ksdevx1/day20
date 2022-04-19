@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# .idea folder (not sure if I need it in GIT)
+.idea
